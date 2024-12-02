@@ -6,4 +6,4 @@ Gill told Jack she had also found three equally-spaced primes, each having three
 ### In ascending order, what are Gill’s three primes?
 The answer given by the newspaper was 157, 283, 409
 
-In this pro, I used Haskell to write the code as tool to print out the answer.
+In this repository, I used Haskell language to write a code to print out the answer of Gill's primes. 
