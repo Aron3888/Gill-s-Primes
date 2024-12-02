@@ -7,4 +7,4 @@ Gill told Jack she had also found three equally-spaced primes, each having three
 The answer given by the newspaper was 157, 283, 409
 
 ## Haskell programming
-I used Haskell language to write a code to print out the answer of Gill's primes. 
+I used Haskell language to write a code to print out the answer of Gill's primes. This program should print [([4,0,9],[2,8,3],[1,5,7]),([1,5,7],[2,8,3],[4,0,9])].
