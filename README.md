@@ -8,3 +8,5 @@ The answer given by the newspaper was 157, 283, 409
 
 ## Haskell programming
 I used Haskell language to write a code to print out the answer of Gill's primes. This program should print out [([4,0,9],[2,8,3],[1,5,7]) , ([1,5,7],[2,8,3],[4,0,9])].
+
+**Three testers in tests file ensure that your code can run correctly.**
