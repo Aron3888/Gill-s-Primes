@@ -1,4 +1,4 @@
--- tests for generator if presumably produces a list of 3-tuples of 3-element lists of integers
+-- tests for generator if presumably produces a list of 3-tuples of 3-element lists of integers in grillsprimes.hs
 x_generator :: Int
 x_generator = n10
   where
